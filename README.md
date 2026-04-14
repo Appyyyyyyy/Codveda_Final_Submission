@@ -18,8 +18,8 @@ https://github.com/Appyyyyyyy/Linear_regression_analysis
 4. Task 1: Predictive Modeling (Classification) (Advanced)
    https://github.com/Appyyyyyyy/Customer_Churn_ML
 
-5. Task 2: Building Dashboards with PowerBI/Tableau
+5. Task 2: Building Dashboards with PowerBI/Tableau (Advanced)
    https://github.com/Appyyyyyyy/Iris_Data_Analysis
 
-6. Natural Language Processing (NLP)- Sentiment Analysis
+6. Task 3: Natural Language Processing (NLP)- Sentiment Analysis (Advanced)
    https://github.com/Appyyyyyyy/IMDB_Sentiment_Analysis
