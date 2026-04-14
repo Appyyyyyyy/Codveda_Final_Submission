@@ -9,17 +9,17 @@ GitHub Repository Links:
 1. Task 1: Regression Analysis (Intermediate)
 https://github.com/Appyyyyyyy/Linear_regression_analysis
    
-2. Task 3: Time Series Analysis (Intermediate)
+2. Task 2: Time Series Analysis (Intermediate)
    https://github.com/Appyyyyyyy/Air_Passenger_Time_Series_Analysis
 
-3. Project Name
-   https://github.com/yourusername/project3
+3. Task 3: Clustering Analysis (K-Means) (Intermediate)
+   https://github.com/Appyyyyyyy/Wholesale_Customers-Clustering
+   
+4. Task 1: Predictive Modeling (Classification) (Advanced)
+   https://github.com/Appyyyyyyy/Customer_Churn_ML
 
-4. Project Name
-   https://github.com/yourusername/project4
+5. Task 2: Building Dashboards with PowerBI/Tableau
+   https://github.com/Appyyyyyyy/Iris_Data_Analysis
 
-5. Project Name
-   https://github.com/yourusername/project5
-
-6. Project Name
-   https://github.com/yourusername/project6
+6. Natural Language Processing (NLP)- Sentiment Analysis
+   https://github.com/Appyyyyyyy/IMDB_Sentiment_Analysis
