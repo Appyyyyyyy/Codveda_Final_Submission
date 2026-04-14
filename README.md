@@ -6,11 +6,11 @@ This submission contains 6 projects completed during the internship.
 
 GitHub Repository Links:
 
-1. Task 1 Regression Analysis (Intermediate)
+1. Task 1: Regression Analysis (Intermediate)
 https://github.com/Appyyyyyyy/Linear_regression_analysis
    
-2. Project Name
-   https://github.com/yourusername/project2
+2. Task 3: Time Series Analysis (Intermediate)
+   https://github.com/Appyyyyyyy/Air_Passenger_Time_Series_Analysis
 
 3. Project Name
    https://github.com/yourusername/project3
